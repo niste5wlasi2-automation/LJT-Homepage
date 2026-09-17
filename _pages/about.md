@@ -30,25 +30,25 @@ Publications
 **First-author Papers**
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv)  
-   &lt;u&gt;Junteng Liu&lt;/u&gt;, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
+   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv)  
-   &lt;u&gt;Junteng Liu&lt;/u&gt;, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
+   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)  
-   &lt;u&gt;Junteng Liu&lt;/u&gt;, Shiqi Chen, Yu Cheng, Junxian He  
+   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
    [Code](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 **Co-authored Papers**
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)  
-   Shiqi Chen, Miao Xiong, &lt;u&gt;Junteng Liu&lt;/u&gt;, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
 
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023)  
-   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, &lt;u&gt;Junteng Liu&lt;/u&gt;, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
 
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023)  
-   Jinghan Zhang, Shiqi Chen, &lt;u&gt;Junteng Liu&lt;/u&gt;, Junxian He
+   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He
 
 Awards
 ======
